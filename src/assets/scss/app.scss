@@ -1,4 +1,7 @@
 @import 'settings';
 @import 'foundation-emails';
 
-@import 'template/template';
+@import 'template/defaults';
+@import 'template/header';
+@import 'template/body';
+@import 'template/footer';
